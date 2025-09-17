@@ -30,7 +30,7 @@ Harvest Robot, Grasping, Manipulation, Dual-arm Robot, Intelligent Robotics 분�
   - **설명**: 국립 순천대학교 협력, 수직 스마트팜 딸기 수확 로봇  
   - **역할**: YOLO 모델 학습 및 통합, 매니퓰레이터 제어 프로그래밍  
   - **기술 스택**: ROS1, Python, YOLO  
-  - **성과**: 실험실 테스트로 수확 정확도 80% 이상  
+  - **성과**: 실험실 테스트로 수확 정확도 90% 이상  
 
 ## 💼 경력
 - **쎄네스테크놀로지, 기계부 연구원** (2023.03 ~ 현재)  
