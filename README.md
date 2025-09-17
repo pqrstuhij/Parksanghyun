@@ -1,6 +1,9 @@
 안녕하세요, 박상현입니다! 👋
-쎄네스테크놀로지에서 기계부 연구원으로 근무 중이며, 한양대학교 ERICA 로봇공학과 융합 전공(2022.03 ~ 2025.02) 학부생입니다. Harvest Robot, Grasping, Manipulation, Dual-arm Robot, Intelligent Robotics에 관심이 있으며, ROS1/ROS2와 YOLO를 활용한 로봇 개발 프로젝트를 통해 비전 시스템 통합과 매니퓰레이터 제어 경험을 쌓았습니다.
-📧 이메일: jacob7575@hanyang.ac.kr📱 연락처: 010-2434-0863🔗 소개: github.com/pqrstuhij/Parksanghyun
+쎄네스테크놀로지에서 기계부 연구원으로 근무 중입니다. 
+📧 이메일: jacob7575@hanyang.ac.kr
+📱 연락처: 010-2434-0863
+🔗 소개: github.com/pqrstuhij/Parksanghyun
+
 🔬 연구 관심 분야
 
 Harvest Robot
