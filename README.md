@@ -2,7 +2,7 @@
 
 쎄네스테크놀로지에서 기계부 연구원으로 근무 중입니다.
 
-📧 **이메일**: jacob7575@hanyang.ac.kr  
+📧 **이메일**: jacob7575@senestechnology.com, jacob7575@hanyang.ac.kr  
 📱 **연락처**: 010-2434-0863  
 🔗 **소개**: [github.com/pqrstuhij/Parksanghyun](https://github.com/pqrstuhij/Parksanghyun)
 
